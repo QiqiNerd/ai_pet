@@ -1,4 +1,4 @@
-# AI Pet Designer - English Version
+# AI Pet Designer
 
 print("🐾 Welcome to the AI Pet World!")
 pet_name = input("What do you want to name your pet? ")
